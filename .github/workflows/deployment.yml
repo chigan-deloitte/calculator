@@ -40,5 +40,5 @@ jobs:
           cd /var/app/calculator
           git pull
           npm install
-          pm2 start npm -- start
+          npm test
           
