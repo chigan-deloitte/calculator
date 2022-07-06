@@ -1,6 +1,10 @@
 {
   "name": "calculator",
+<<<<<<< Updated upstream
   "version": "1.0.0",
+=======
+  "version": "3.0.0",
+>>>>>>> Stashed changes
   "description": "Calculator",
   "repository": {
     "type": "git",
